@@ -1,4 +1,4 @@
-<img width="607" height="344" alt="image" src="https://github.com/user-attachments/assets/c6883339-be17-496f-964c-f5309de44678" /># 📊 GrokMart – Executive Sales & Performance Dashboard
+# 📊 GrokMart – Executive Sales & Performance Dashboard
 
 An interactive **3-page Power BI dashboard** designed to analyze sales performance, profitability, product trends, customer behavior, and regional performance. This project transforms sales data into actionable business insights through interactive visualizations and DAX-driven KPIs.
 
@@ -102,3 +102,8 @@ The primary objective of this project was to demonstrate practical skills in **b
 ---
 
 **Skills Demonstrated:** Power BI | DAX | Data Analysis | Business Intelligence | KPI Reporting | Data Visualization | Business Insights
+
+<img width="607" height="344" alt="image" src="https://github.com/user-attachments/assets/c6883339-be17-496f-964c-f5309de44678" />
+<img width="601" height="337" alt="image" src="https://github.com/user-attachments/assets/56ac0ba9-c832-457a-8bcb-d441ad1823eb" />
+<img width="596" height="338" alt="image" src="https://github.com/user-attachments/assets/a899c5fb-875f-4a91-872a-ded9c5a754ab" />
+
